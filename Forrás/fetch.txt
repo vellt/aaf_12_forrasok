@@ -1,1 +1,1 @@
-https://picsum.photos/v2/list
+https://nodejs111.dszcbaross.edu.hu/api/movie
