@@ -7,5 +7,5 @@ Ez a repository a **Asztali alkalmazás II** tárgy forrásanyagait tartalmazza,
 A forrásanyagok kisertethaz és használatához futtasd az alábbi parancsot a kívánt branchet letöltve:
 
 ```bash
-git clone -b fetch_filmek https://github.com/vellt/aaf_12_forrasok.git
+git clone -b fetch_starwars https://github.com/vellt/aaf_12_forrasok.git
 ```
