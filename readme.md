@@ -7,5 +7,5 @@ Ez a repository a **Asztali alkalmazás II** tárgy forrásanyagait tartalmazza,
 A forrásanyagok letöltéséhez és használatához futtasd az alábbi parancsot a kívánt branchet letöltve:
 
 ```bash
-git clone -b hazi_feladat_irogep https://github.com/vellt/aaf_12_forrasok.git
+git clone -b irogep https://github.com/vellt/aaf_12_forrasok.git
 ```
